@@ -7,6 +7,7 @@ A daily grind to improve my problem-solving skills through consistent coding.
 | 1   | Majority Element                | LeetCode | Moore’s Voting Algo     | [LeetCode 169](https://leetcode.com/problems/majority-element/)                |
 | 2   | Two Sum                         | LeetCode | Brute Force             | [LeetCode 1](https://leetcode.com/problems/two-sum/)                           |
 | 3   | Best Time to Buy and Sell Stock | LeetCode | Sliding Window (1-pass) | [LeetCode 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
+| 4   | Contains Duplicate              | LeetCode | Hash Set                | [LeetCode 217](https://leetcode.com/problems/contains-duplicate/)              |
 
 ## Goals:
 
