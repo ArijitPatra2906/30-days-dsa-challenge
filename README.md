@@ -10,6 +10,7 @@ A daily grind to improve my problem-solving skills through consistent coding.
 | 4   | Contains Duplicate              | LeetCode | Hash Set                | [LeetCode 217](https://leetcode.com/problems/contains-duplicate/)              |
 | 5   | Move Zeroes                     | LeetCode | Two Pointers            | [LeetCode 283](https://leetcode.com/problems/move-zeroes/)                     |
 | 6   | Missing Number                  | LeetCode | Math (Sum Formula)      | [LeetCode 268](https://leetcode.com/problems/missing-number/)                  |
+| 7   | Find Lucky Integer              | LeetCode | Frequency Map           | [LeetCode 1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/) |
 
 ## Goals:
 
