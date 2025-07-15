@@ -12,6 +12,7 @@ A daily grind to improve my problem-solving skills through consistent coding.
 | 6   | Missing Number                  | LeetCode | Math (Sum Formula)      | [LeetCode 268](https://leetcode.com/problems/missing-number/)                  |
 | 7   | Find Lucky Integer              | LeetCode | Frequency Map           | [LeetCode 1394](https://leetcode.com/problems/find-lucky-integer-in-an-array/) |
 | 8   | Intersection of Two Arrays      | LeetCode | Set Intersection        | [LeetCode 349](https://leetcode.com/problems/intersection-of-two-arrays/)      |
+| 9   | Remove Element                  | LeetCode | Two Pointers (In-place) | [LeetCode 27](https://leetcode.com/problems/remove-element/)                   |
 
 ## Goals:
 
