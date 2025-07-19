@@ -28,6 +28,7 @@ Each day features one handpicked DSA problem with clear explanations, optimized 
 | 10  | Longest Common Prefix                 | LeetCode | Horizontal Scanning          | [LeetCode 14](https://leetcode.com/problems/longest-common-prefix/)                     |
 | 11  | Isomorphic Strings                    | LeetCode | Pattern Encoding (Index Map) | [LeetCode 205](https://leetcode.com/problems/isomorphic-strings/)                       |
 | 12  | Find All Numbers Disappeared in Array | LeetCode | HashSet Lookup               | [LeetCode 448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |
+| 13  | Find the Difference                   | LeetCode | Hash Map Frequency Count     | [LeetCode 389](https://leetcode.com/problems/find-the-difference/)                      |
 
 ---
 
