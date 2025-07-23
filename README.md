@@ -4,7 +4,7 @@ A self-paced 30-day challenge to strengthen Data Structures and Algorithms skill
 
 Each day features one handpicked DSA problem with clear explanations, optimized JavaScript solutions, and learning takeaways.
 
-📌 **Language**: JavaScript
+📌 **Language**: JavaScript  
 📈 **Topics Covered**: Arrays, Strings, Recursion, Linked Lists, Trees, Sorting, Searching
 
 ✅ Ideal for interview preparation and daily practice  
@@ -32,6 +32,7 @@ Each day features one handpicked DSA problem with clear explanations, optimized 
 | 14  | Add Strings                            | LeetCode | Digit-by-Digit Addition + Carry      | [LeetCode 415](https://leetcode.com/problems/add-strings/)                              |
 | 15  | Delete Characters to Make Fancy String | LeetCode | Greedy + Char Filtering              | [LeetCode 1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)  |
 | 16  | Maximum Erasure Value                  | LeetCode | Two Pointer Sliding Window + HashSet | [LeetCode 1695](https://leetcode.com/problems/maximum-erasure-value/)                   |
+| 17  | Maximum Score From Removing Substrings | LeetCode | Greedy + Stack                       | [LeetCode 1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/)  |
 
 ---
 
