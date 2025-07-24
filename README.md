@@ -33,6 +33,7 @@ Each day features one handpicked DSA problem with clear explanations, optimized 
 | 15  | Delete Characters to Make Fancy String | LeetCode | Greedy + Char Filtering              | [LeetCode 1957](https://leetcode.com/problems/delete-characters-to-make-fancy-string/)  |
 | 16  | Maximum Erasure Value                  | LeetCode | Two Pointer Sliding Window + HashSet | [LeetCode 1695](https://leetcode.com/problems/maximum-erasure-value/)                   |
 | 17  | Maximum Score From Removing Substrings | LeetCode | Greedy + Stack                       | [LeetCode 1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/)  |
+| 18  | 3Sum                                   | LeetCode | Sorting + Two Pointers               | [LeetCode 15](https://leetcode.com/problems/3sum/)                                      |
 
 ---
 
