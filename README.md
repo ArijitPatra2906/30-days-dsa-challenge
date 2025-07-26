@@ -35,6 +35,7 @@ Each day features one handpicked DSA problem with clear explanations, optimized 
 | 17  | Maximum Score From Removing Substrings | LeetCode | Greedy + Stack                       | [LeetCode 1717](https://leetcode.com/problems/maximum-score-from-removing-substrings/)  |
 | 18  | 3Sum                                   | LeetCode | Sorting + Two Pointers               | [LeetCode 15](https://leetcode.com/problems/3sum/)                                      |
 | 19  | Long Pressed Name                      | LeetCode | Two Pointer Greedy Match             | [LeetCode 925](https://leetcode.com/problems/long-pressed-name/)                        |
+| 20  | Split the Array into Equal Pairs       | LeetCode | Hash Map Frequency Count             | [LeetCode 3046](https://leetcode.com/problems/split-the-array-into-equal-pairs/)        |
 
 ---
 
