@@ -36,6 +36,7 @@ Each day features one handpicked DSA problem with clear explanations, optimized 
 | 18  | 3Sum                                   | LeetCode | Sorting + Two Pointers               | [LeetCode 15](https://leetcode.com/problems/3sum/)                                      |
 | 19  | Long Pressed Name                      | LeetCode | Two Pointer Greedy Match             | [LeetCode 925](https://leetcode.com/problems/long-pressed-name/)                        |
 | 20  | Split the Array into Equal Pairs       | LeetCode | Hash Map Frequency Count             | [LeetCode 3046](https://leetcode.com/problems/split-the-array-into-equal-pairs/)        |
+| 21  | Count Hills and Valleys in an Array    | LeetCode | Pattern Matching after Cleanup       | [LeetCode 2210](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)     |
 
 ---
 
