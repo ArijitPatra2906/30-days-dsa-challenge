@@ -38,6 +38,7 @@ Each day features one handpicked DSA problem with clear explanations, optimized 
 | 20  | Split the Array into Equal Pairs       | LeetCode | Hash Map Frequency Count             | [LeetCode 3046](https://leetcode.com/problems/split-the-array-into-equal-pairs/)        |
 | 21  | Count Hills and Valleys in an Array    | LeetCode | Pattern Matching after Cleanup       | [LeetCode 2210](https://leetcode.com/problems/count-hills-and-valleys-in-an-array/)     |
 | 22  | Apply Discount to Prices               | LeetCode | String Parsing + Format Validation   | [LeetCode 2288](https://leetcode.com/problems/apply-discount-to-prices/)                |
+| 23  | Palindrome Linked List                 | LeetCode | Convert to Array + Reverse Check     | [LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/)                   |
 
 ---
 
