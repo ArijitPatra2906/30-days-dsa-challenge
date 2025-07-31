@@ -40,6 +40,7 @@ Each day features one handpicked DSA problem with clear explanations, optimized 
 | 22  | Apply Discount to Prices               | LeetCode | String Parsing + Format Validation   | [LeetCode 2288](https://leetcode.com/problems/apply-discount-to-prices/)                |
 | 23  | Palindrome Linked List                 | LeetCode | Convert to Array + Reverse Check     | [LeetCode 234](https://leetcode.com/problems/palindrome-linked-list/)                   |
 | 24  | Remove Duplicates from Sorted List     | LeetCode | Hash Set + Reconstruct New List      | [LeetCode 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)        |
+| 25  | Bitwise ORs of Subarrays               | LeetCode | Set + Bitwise OR                     | [LeetCode 898](https://leetcode.com/problems/bitwise-ors-of-subarrays)                  |
 
 ---
 
