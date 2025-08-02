@@ -42,6 +42,7 @@ Each day features one handpicked DSA problem with clear explanations, optimized 
 | 24  | Remove Duplicates from Sorted List     | LeetCode | Hash Set + Reconstruct New List      | [LeetCode 83](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)        |
 | 25  | Bitwise ORs of Subarrays               | LeetCode | Set + Bitwise OR                     | [LeetCode 898](https://leetcode.com/problems/bitwise-ors-of-subarrays)                  |
 | 26  | Add Two Numbers                        | LeetCode | Linked List + Carry Handling         | [LeetCode 2](https://leetcode.com/problems/add-two-numbers)                             |
+| 26  | 3Sum Closest                           | LeetCode | Sort + Two Pointer                   | [LeetCode 16](https://leetcode.com/problems/3sum-closest)                               |
 
 ---
 
