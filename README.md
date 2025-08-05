@@ -44,7 +44,8 @@ Each day features one handpicked DSA problem with clear explanations, optimized 
 | 26  | Add Two Numbers                                | LeetCode | Linked List + Carry Handling              | [LeetCode 2](https://leetcode.com/problems/add-two-numbers)                                |
 | 27  | 3Sum Closest                                   | LeetCode | Sort + Two Pointer                        | [LeetCode 16](https://leetcode.com/problems/3sum-closest)                                  |
 | 28  | Longest Substring Without Repeating Characters | LeetCode | Sliding Window + HashSet                  | [LeetCode 3](https://leetcode.com/problems/longest-substring-without-repeating-characters) |
-| 29  | Valid Sudoku                                   | LeetCode | HashSets for rows, columns, and 3x3 boxes | [LeetCode 36](HashSets for rows, columns, and 3x3 boxes)                                   |
+| 29  | Valid Sudoku                                   | LeetCode | HashSets for rows, columns, and 3x3 boxes | [LeetCode 36](https://leetcode.com/problems/valid-sudoku)                                  |
+| 30  | Number of Unplaced Fruits                      | LeetCode | Greedy with used-array tracking           | [LeetCode 3477](https://leetcode.com/problems/fruits-into-baskets-ii)                      |
 
 ---
 
